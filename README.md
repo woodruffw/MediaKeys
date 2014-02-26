@@ -21,7 +21,7 @@ Ctrl-F12 - Toggle Play
 1. Download install.exe
 2. Run it!
 
-MediaKeys.exe, as well as a README, LICENSE, uninst.exe, and source will all be stored in "Program Files\woodrufwsoftware\MediaKeys".
+MediaKeys.exe, as well as a README, LICENSE, uninst.exe, and source will all be stored in "Program Files\woodruffw-software\MediaKeys".
 
 You could also just download the MediaKeys.exe file and run it, although you would then have to click it each time you log on.
 

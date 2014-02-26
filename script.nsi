@@ -1,8 +1,8 @@
 !define APPNAME "MediaKeys"
-!define COMPANYNAME "woodrufwsoftware"
+!define COMPANYNAME "woodruffw-software"
 !define DESCRIPTION "Emulates volume control on keyboards without volume keys."
 !define VERSIONMAJOR 1.0
-!define ABOUTURL "https://github.com/woodrufw"
+!define ABOUTURL "https://github.com/woodruffw"
 
 LicenseData "LICENSE"
 Name "${COMPANYNAME} - ${APPNAME}"
